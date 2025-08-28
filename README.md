@@ -1,7 +1,7 @@
 
 ---
 
-### **3. Symbolic Initiation Protocol (`symbolic-initiation/README.md`)**
+### **Symbolic Initiation Protocol (`symbolic-initiation/README.md`)**
 
 ```markdown
 # Symbolic Initiation Protocol
